@@ -4,9 +4,11 @@
 
 <img width="50%" height="50%" alt="QoderWork CN" src="https://github.com/user-attachments/assets/34d7f877-0754-4b5a-9a63-3e72b0df7656" />
 
-- Register Warp with [this link](https://app.warp.dev/referral/EJJRXQ6), and [you can get a unique theme](https://docs.warp.dev/support-and-community/community/refer-a-friend#your-friend-gets-a-theme)!
+- Register Warp with [this link](https://app.warp.dev/referral/EJJRXQ6), and [you can get a unique theme](https://docs.warp.dev/support-and-community/community/refer-a-friend#your-friend-gets-a-theme).
 
-- [Sign up Xiaomi MiMo with invite code: `XD6RGA`](https://platform.xiaomimimo.com?ref=XD6RGA), both get $2 API credits + 10% off your first plan. (Auto-filled on sign-up · Credits valid for 40 days)
+<img width="50%" height="50%" alt="Warp" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-01.png?raw=true" />
+
+- [Sign up Xiaomi MiMo with invite code: `XD6RGA`](https://platform.xiaomimimo.com?ref=XD6RGA) and get $2 API credits (valid for 40 days) + 10% off your first plan.
 
 <img width="50%" height="50%" alt="XD6RGA" src="https://github.com/user-attachments/assets/2780eeec-629d-4a0f-9bd5-0337e85887e4" />
 
